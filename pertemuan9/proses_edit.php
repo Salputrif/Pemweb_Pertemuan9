@@ -1,7 +1,7 @@
 <?php
  include("koneksi.php");
 
- $id_tu= $_POST['id_tu'];
+
  $provinsi= $_POST['provinsi'];
  $kabupaten= $_POST['kabupaten'];
  $kecamatan= $_POST['kecamatan'];
